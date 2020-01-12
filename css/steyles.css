@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: yellow;
+}
+
+div {
+    background-color: violet;
+}
+.row {
+    display: flex;
+
+    
+    flex-wrap: nowrap;
+}
+
+.colum {
+    width: 158px;
+    height: 158px;
+    background-color: green;
+    margin-right: 14px;
+}

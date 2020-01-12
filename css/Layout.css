@@ -1,0 +1,33 @@
+img{
+    width: 100%;
+}
+
+
+img{
+    width: 100%;
+}
+
+.container {
+    max-width: 1020px;
+    margin: auto;
+  }
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .card {
+    width: 33.33%;
+    padding: 14px;
+    box-sizing: border-box;
+    margin: 14px;
+  }
+  .card-item {
+
+    box-shadow: 5px 7px 20px 1px #5e1f1f;
+
+}
+.card-body {
+
+    padding: 14px;
+
+}
